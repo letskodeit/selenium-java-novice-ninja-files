@@ -1,0 +1,39 @@
+1. Talk about the framework you are confident about
+Talk about some advantages
+
+2. Timing issues -> Explicit Waits
+DOM Structure/Locators -> test-id -> All the elements in test
+Proper structure of libraries
+
+Understand why you are declaring something as static and non-static
+private vs public
+Avoid hard-coding
+
+3.Git, SVN
+Create a GitHub account and check-in your code to GitHub
+
+4. Talk about structure of the team
+
+5. Talk about work in detail, page libraries and test cases and complexity
+
+6. Talk about the scenarios
+
+7. ROI -> FF/Chrome and Functional Automation
+
+8. Selenium Grid
+
+9. Windows
+
+10. JUnit/TestNG
+
+11. Under 1 hour -> Sanity Test Suite
+2 - 10 hours -> Regression Test Suite
+
+12. test-failed.xml -> test-output folder
+
+13. Logs and screenshots
+
+14. Log4j2
+ITestListener -> onTestFailure method
+
+15. Free and Open Source, big community support

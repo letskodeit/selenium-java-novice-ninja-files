@@ -1,0 +1,4 @@
+﻿// Please change the extension to .properties before running the file
+// It does not allow to upload .properties file, that’s why I have to change the extension
+name=letskodeit
+course=java
